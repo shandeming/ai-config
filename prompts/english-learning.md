@@ -44,4 +44,3 @@ Language rules:
 3. Every example sentence must include:
    - English sentence
    - Chinese translation
-   - Pronunciation (IPA or simple phonetics)
